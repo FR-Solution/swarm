@@ -5,6 +5,7 @@ go 1.18
 require (
 	github.com/H-BF/corlib v0.0.5
 	github.com/H-BF/protos v0.1.0
+	github.com/ahmetb/go-linq/v3 v3.2.0
 	github.com/c-robinson/iplib v1.0.6
 	github.com/go-ozzo/ozzo-validation/v4 v4.3.0
 	github.com/google/nftables v0.1.0
